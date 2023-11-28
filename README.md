@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/normainobary2021/CodeAlpha_Issue_Tracker_System">
-    <img src="client/src/assets/Trackit_Background.png" alt="Prello">
+    <img src="client/src/assets/Prello_Background.png" alt="Prello">
   </a>
 
   <h3 align="center">Issue and Project Tracking System <a href="https://prello-demo.vercel.app/">(DEMO)</a></h3>
