@@ -1,0 +1,12 @@
+# .gitignore (root)
+node_modules/
+*.env
+*.txt
+*.md
+
+# client/.gitignore
+node_modules/
+.next
+
+# server/.gitignore
+node_modules/
