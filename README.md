@@ -7,7 +7,7 @@
     <img src="client/src/assets/Prello_Background.png" alt="Prello">
   </a>
 
-  <h3 align="center">Issue and Project Tracking System <a href="https://prello-demo.vercel.app/">(DEMO)</a></h3>
+  <h3 align="center">Issue and Project Tracking System <a href="https://prello-frontend.onrender.com">(DEMO)</a></h3>
 
   <p align="center">
     Use Prello! Tracking system that allows team members to collaborate, discuss and manage projects effectively 
